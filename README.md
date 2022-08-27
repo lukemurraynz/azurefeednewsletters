@@ -3,14 +3,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
   <a href="https://github.com/lukemurraynz/azurefeednewsletters">
     <img src="AzureFeeds.jpg" alt="Logo">
   </a>
-  
+
 <br />
 
 > [Share] Azure Feeds Newsletter for the week of Saturday July 23 2022 to Saturday July 30 2022
@@ -28,5 +27,12 @@
 [stars-url]: hhttps://github.com/lukemurraynz/azurefeednewsletters/stargazers
 [issues-shield]: https://img.shields.io/github/issues/lukemurraynz/azurefeednewsletters.svg?style=for-the-badge
 [issues-url]: https://github.com/lukemurraynz/azurefeednewsletters/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ljmurray/
+
+## 🤝🏻 Let's Keep in Touch
+
+<p align="left">
+<a href="https://luke.geek.nz/"><img alt="Website" src="https://img.shields.io/badge/Website-luke.geek.nz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
+<a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/linktr-lukemurray-blue?style=flat-square&logo=linktr"></a>
