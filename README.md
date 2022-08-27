@@ -13,8 +13,7 @@
     <img src="AzureFeeds.jpg" alt="Logo">
   </a>
 
-
-Azure Feed Newsletters
+**Azure Feed Newsletters**
 
 [Share] Azure Feeds Newsletter for the week of Saturday July 23 2022 to Saturday July 30 2022
 
