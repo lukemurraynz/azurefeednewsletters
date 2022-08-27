@@ -1,6 +1,20 @@
 # newsletters
-Azure Feed Newsletters
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br />
+<div align="center">
+  <a href="https://github.com/lukemurraynz/azurefeednewsletters">
+    <img src="AzureFeeds.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+
+Azure Feed Newsletters
 
 [Share] Azure Feeds Newsletter for the week of Saturday July 23 2022 to Saturday July 30 2022
 
