@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://luke.geek.nz/"><img alt="Website" src="https://img.shields.io/badge/Website-luke.geek.nz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://azurefeeds.com"><img alt="Website" src="https://img.shields.io/badge/Website-azurefeeds.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
 <a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/linktr-lukemurray-blue?style=flat-square&logo=linktr"></a>
