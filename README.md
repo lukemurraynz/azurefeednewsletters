@@ -30,7 +30,7 @@
 
 ## 🤝🏻 Let's Keep in Touch
 
-<p align="left">
+<p align="center">
 <a href="https://luke.geek.nz/"><img alt="Website" src="https://img.shields.io/badge/Website-luke.geek.nz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
