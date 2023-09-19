@@ -12,6 +12,7 @@
 
 <br />
 
+> ** FOR ALL NEW AZURE FEEDS NEWSLETTERS - MAKE SURE TO REGISTER FOR THE [EMAIL]([ VERSION](https://lb.benchmarkemail.com//listbuilder/signupnew?IkfHTmyPVq90rQoIZ9czC%252F5pwVnAjsSIeWaLNVgneojtO5iNRn8gS049TyW7spdJ)!
 > [Share] Azure Feeds Newsletter for the week of Saturday July 23 2022 to Saturday July 30 2022
 
 > **Includes Weekly #AzureUpdates, Latest #TechCommunity posts, latest #MicrosoftSecurity posts, posts from the #Azure and #TechCommunity, weekly updates on #AzurePolicy and #AzureArchitectureCenter and finally, recently released or modified Microsoft Learn content.**
